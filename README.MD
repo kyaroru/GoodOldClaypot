@@ -11,3 +11,4 @@ Complete the `claypot` function in index.js abiding by the following conditions
 Notes:
 - If you need to test, open `index.html` in your browser, open up the development tools, and open up the console
 - Then, simply call the function out like this: `claypot(1, 30)`
+# GoodOldClaypot
